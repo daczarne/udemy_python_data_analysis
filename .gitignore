@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 # Files
+.DS_Store
+data/
 course_files/
