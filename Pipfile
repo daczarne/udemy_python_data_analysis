@@ -9,6 +9,8 @@ ipykernel = "*"
 matplotlib = "*"
 numpy = "*"
 seaborn = "*"
+geopandas = "*"
+shapely = "*"
 
 [dev-packages]
 
