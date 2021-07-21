@@ -130,5 +130,3 @@ dmypy.json
 
 # Files
 .DS_Store
-data/
-course_files/
